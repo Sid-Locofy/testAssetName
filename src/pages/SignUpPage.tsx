@@ -14,8 +14,8 @@ const SignUpPage: FunctionComponent = () => {
   return (
     <div className={styles.signUpPage}>
       <Header
-        notifications="/notifications@2x.png"
-        avatar="/avatar@2x.png"
+        notifications="/notifications1@2x.png"
+        avatar="/avatar1@2x.png"
         loginSection={false}
       />
       <main className={styles.loginSections}>
